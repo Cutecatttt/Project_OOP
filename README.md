@@ -2,7 +2,7 @@
 
 ## Video demo
 
-![ok](https://github.com/user-attachments/assets/0d1fd9a2-fd32-4157-8538-411adf723757)
+![demo](https://github.com/user-attachments/assets/0e45242c-366d-4665-b7cd-027ec09f5c75)
 
 ## running
 
